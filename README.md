@@ -2,7 +2,7 @@
 - 👀 I’m interested in background
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me barrasa@hunters.dev
+- 📫 How to reach me contact@barrasa.dev
 
 <!---
 barrasadev/barrasadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
