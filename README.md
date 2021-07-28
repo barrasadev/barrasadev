@@ -4,7 +4,7 @@ Hi, they usually call me Barrasa and I'm a developer. I'm collaborative and inno
  <br>
  Contact: <br>
 <a href="mailto:contact@barrasa.dev">
-<img src="https://img.shields.io/badge/contact@barrasa.dev-7289da?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/contact@barrasa.dev-7289da?style=for-the-badge&logo=mail&logoColor=white"/>
     </a>
 
 ## Programming lenguages and Technologys 🚀
