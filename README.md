@@ -17,6 +17,10 @@ Hi, they usually call me Barrasa and I'm a developer. I'm collaborative and inno
 ![Github](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=Github&logoColor=fff)
 ![BASH](https://img.shields.io/badge/Bash%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=lime)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
+## Skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,nuxtjs,tailwind,md,bots,git,github,githubactions,linux,docker,nginx,html,css,sass,cloudflare,mongodb,mysql,postgres,redis,sqlite,supabase,sequelize,rabbitmq,astro,express,bash,powershell,electron,bootstrap,ps,python&theme=dark"
+</p>
 ## My path on Github 🌊
 ![](https://github-readme-stats.vercel.app/api?username=barrasadev&show_icons=true&count_private=true)
 
