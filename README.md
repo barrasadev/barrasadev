@@ -5,8 +5,8 @@ Hi! I'm **Barrasa**, a Software Engineer and Cybersecurity Enthusiast from Madri
 
 ## 🚀 Highlights
 
-- 🎮 **[Picross](https://playpicross.com)** - Logic game with **600,000+ players** in 2 months
-- 💼 **[Nexbi](https://nexbi.pro)** *(off now)* - Gaming social platform with **500,000+ users**
+- 🎮 **[Picross](https://playpicross.com)** - Logic game with **600,000+ players** in 2 months.
+- 💼 **[Nexbi](https://nexbi.pro)** *(off now)* - Gaming social platform with **500,000+ users**.
 
 
 ## 💻 Tech Stack
@@ -50,21 +50,38 @@ Hi! I'm **Barrasa**, a Software Engineer and Cybersecurity Enthusiast from Madri
 
 ## 📰 Featured In
 
+Find mentions and articles by digital media outlets that they have published about my projects and contributions.
+
 <p align="center">
   <a href="https://www.adslzone.net/noticias/videojuegos/dos-jovenes-mostolenos-lanzan-un-videojuego-como-tfg-y-superan-el-medio-millon-de-jugadores-sin-promocion/">
-    <img src="https://img.shields.io/badge/ADSLZone-Featured-red?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ADSLZone-Article-red?style=flat-square"/>
+  </a>
+  <a href="https://www.elpais.com.uy/juegos/jovenes-estudiantes-desarrollan-un-videojuego-como-tfg-y-superan-los-600-000-jugadores-sin-inversion-en-marketing">
+    <img src="https://img.shields.io/badge/El%20Pais-Article-blue?style=flat-square"/>
   </a>
   <a href="https://www.rtve.es/play/videos/informativo-de-madrid/informativo-madrid-2-29052023/6902588/?t=917">
-    <img src="https://img.shields.io/badge/RTVE-TV%20News-blue?style=flat-square"/>
+    <img src="https://img.shields.io/badge/RTVE-TV%20News-orange?style=flat-square"/>
   </a>
   <a href="https://www.moncloa.com/2025/02/19/barrasa-el-programador-de-21-anos-que-revoluciona-el-mundo-de-la-tecnologia-3160115/">
     <img src="https://img.shields.io/badge/Moncloa-Interview-purple?style=flat-square"/>
   </a>
+  <a href="https://www.merca2.es/2025/02/20/barrasa-el-joven-programador-que-va-mas-alla-del-emprendimiento-2148778/">
+    <img src="https://img.shields.io/badge/Merca2-Interview-darkgreen?style=flat-square"/>
+  </a>
   <a href="https://www.que.es/2023/11/13/ivan-gonzalez-barrasa-programador-lider-empresarial/">
-    <img src="https://img.shields.io/badge/Qué!-Article-orange?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Qué!-Interview-red?style=flat-square"/>
+  </a>
+  <a href="https://www.launion.digital/tecnologia/ivan-gonzalez-barrasa-joven-emprendedor-programador-continua-cosechando-exitos-n148984">
+    <img src="https://img.shields.io/badge/La%20Union%20Digital-Interview-blue?style=flat-square"/>
+  </a>
+  <a href="https://www.elconfidencialdigital.com/articulo/noticias/dos-jovenes-madrilenos-programan-videojuego-como-tfg-vuelve-viral-600000-usuarios/20250602154943966387.html">
+    <img src="https://img.shields.io/badge/El%20Confidencial%20Digital-Article-orange?style=flat-square"/>
   </a>
   <a href="https://www.innovaspain.com/ivan-gonzalez-nexbi/">
     <img src="https://img.shields.io/badge/InnovaSpain-Featured-green?style=flat-square"/>
+  </a>
+  <a href="https://www.ivoox.com/en/hablamos-ferrolano-javier-loureiro-creador-de-audios-mp3_rf_85716520_1.html">
+    <img src="https://img.shields.io/badge/La%20Voz-Radio-red?style=flat-square"/>
   </a>
 </p>
 
@@ -76,5 +93,5 @@ Hi! I'm **Barrasa**, a Software Engineer and Cybersecurity Enthusiast from Madri
 </p>
 
 <p align="center">
-  <strong>⚡ Building the future, one line of code at a time ⚡</strong> 
+  <strong>🚀 Allergic To Average 🚀</strong> 
 </p>
