@@ -1,6 +1,6 @@
 # About Barrasa 👨‍💻
 
-Hi! I'm **Barrasa**, a Software Engineer and Cybersecurity Enthusiast from Madrid 🇪🇸. I'm passionate about building innovative solutions that impact millions of users. Former **CEO & CTO** of multiple successful startups with **600,000+** users combined.
+Hi! I'm **Barrasa**, a Software Engineer and Cybersecurity Enthusiast from Madrid 🇪🇸. I'm passionate about building innovative solutions that impact millions of users. Former **CEO & CTO** of multiple successful startups with **1M+** users combined.
 
 
 ## 🚀 Highlights
