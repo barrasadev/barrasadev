@@ -1,87 +1,65 @@
 # About Barrasa 👨‍💻
 
-Hi! I'm **Barrasa**, a Software Engineer and Cybersecurity Enthusiast from Madrid 🇪🇸. I'm passionate about building innovative solutions that impact millions of users. Former **CEO & CTO** of multiple successful startups with **1M+** users combined.
+Hi! I'm **Barrasa**, a Software Engineer and Entrepreneur from Madrid 🇪🇸. I started programming at 13, build platforms used by over a million people, and made it to **Forbes 30 Under 30** 🏆.
 
 
-## 🚀 Highlights
+## 🚀 Projects
 
-- 🎮 **[Picross](https://playpicross.com)** - Logic game with **600,000+ players** in 2 months.
-- 💼 **[Nexbi](https://nexbi.pro)** *(off now)* - Gaming social platform with **500,000+ users**.
+- 🎮 **[Picross](https://playpicross.com)** — Logic game built as a university final project. Hit **600,000+ players** in 2 months with zero paid marketing.
+- 💼 **[Nexbi](https://nexbi.pro)** *(off now)* — Gaming social platform for the global gaming community with **500,000+ users**.
+- 🚪 **[roompass](https://roompass.app)** — Platform connecting users with experts, founders and creators via voice notes, video calls and exclusive experiences. Thanks to roompass, we've had the chance to sit with the founders of Rockstar Games, Siri, Tinder, Apple, Kayak and many more.
 
-
-## 💻 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Security
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## 📰 Featured In
 
-Find mentions and articles by digital media outlets that they have published about my projects and contributions.
-
 <p align="center">
-  <a href="https://www.adslzone.net/noticias/videojuegos/dos-jovenes-mostolenos-lanzan-un-videojuego-como-tfg-y-superan-el-medio-millon-de-jugadores-sin-promocion/">
-    <img src="https://img.shields.io/badge/ADSLZone-Article-red?style=flat-square"/>
+  <a href="https://www.forbes.com/profile/roompass/">
+    <img src="https://img.shields.io/badge/Forbes-30%20Under%2030%20Europe%202026-gold?style=flat-square"/>
   </a>
-  <a href="https://www.elpais.com.uy/juegos/jovenes-estudiantes-desarrollan-un-videojuego-como-tfg-y-superan-los-600-000-jugadores-sin-inversion-en-marketing">
-    <img src="https://img.shields.io/badge/El%20Pais-Article-blue?style=flat-square"/>
+  <a href="https://forbes.es/forbes-30-under-30/905207/lista-forbes-estos-son-los-espanoles-de-la-lista-30-under-30-europe-2026/">
+    <img src="https://img.shields.io/badge/Forbes%20España-30%20Under%2030-gold?style=flat-square"/>
+  </a>
+  <a href="https://www.telecinco.es/noticias/sociedad/20260406/emprendimiento-juvenil-barrasa-red-social_18_018805459.html">
+    <img src="https://img.shields.io/badge/Telecinco-TV-blue?style=flat-square"/>
   </a>
   <a href="https://www.rtve.es/play/videos/informativo-de-madrid/informativo-madrid-2-29052023/6902588/?t=917">
-    <img src="https://img.shields.io/badge/RTVE-TV%20News-orange?style=flat-square"/>
+    <img src="https://img.shields.io/badge/La%201%20·%20RTVE-TV%20News-orange?style=flat-square"/>
   </a>
-  <a href="https://www.moncloa.com/2025/02/19/barrasa-el-programador-de-21-anos-que-revoluciona-el-mundo-de-la-tecnologia-3160115/">
-    <img src="https://img.shields.io/badge/Moncloa-Interview-purple?style=flat-square"/>
+  <a href="https://www.telemadrid.es/programas/buenos-dias-madrid-om/Buenos-Dias-Madrid-1100-1200-23042026-9-2882501731--20260423011850.html">
+    <img src="https://img.shields.io/badge/Onda%20Madrid-Radio-red?style=flat-square"/>
   </a>
-  <a href="https://www.merca2.es/2025/02/20/barrasa-el-joven-programador-que-va-mas-alla-del-emprendimiento-2148778/">
-    <img src="https://img.shields.io/badge/Merca2-Interview-darkgreen?style=flat-square"/>
+  <a href="https://www.elmundo.es/papel/historias/2026/05/13/6a0325a5e9cf4ae6438b459d.html">
+    <img src="https://img.shields.io/badge/El%20Mundo-Revista-black?style=flat-square"/>
   </a>
-  <a href="https://www.que.es/2023/11/13/ivan-gonzalez-barrasa-programador-lider-empresarial/">
-    <img src="https://img.shields.io/badge/Qué!-Interview-red?style=flat-square"/>
+  <a href="https://www.elespanol.com/madrid/sociedad/20260426/ivan-barrasa-dijieron-acabaria-mendigando-jorge-branger-expulsaron-instituto-ahora-rozan-exito/1003744221161_0.html">
+    <img src="https://img.shields.io/badge/El%20Español-Artículo-red?style=flat-square"/>
   </a>
-  <a href="https://www.launion.digital/tecnologia/ivan-gonzalez-barrasa-joven-emprendedor-programador-continua-cosechando-exitos-n148984">
-    <img src="https://img.shields.io/badge/La%20Union%20Digital-Interview-blue?style=flat-square"/>
+  <a href="https://www.vanitatis.elconfidencial.com/famosos/2026-05-03/ivan-barrasa-forbes-entrevista-emprendedor-colegio-fracaso-familia_4348759/">
+    <img src="https://img.shields.io/badge/Vanitatis-Entrevista-purple?style=flat-square"/>
+  </a>
+  <a href="https://emprendedores.es/notas-de-prensa/de-una-mesa-de-bar-en-madrid-a-forbes-europa-asi-nacio-roompass/">
+    <img src="https://img.shields.io/badge/Emprendedores-Artículo-green?style=flat-square"/>
+  </a>
+  <a href="https://okdiario.com/economia/22-anos-imperio-construccion-historia-del-unico-espanol-dentro-del-forbes-30-under-30-media-16790611">
+    <img src="https://img.shields.io/badge/Okdiario-Artículo-orange?style=flat-square"/>
   </a>
   <a href="https://www.elconfidencialdigital.com/articulo/noticias/dos-jovenes-madrilenos-programan-videojuego-como-tfg-vuelve-viral-600000-usuarios/20250602154943966387.html">
-    <img src="https://img.shields.io/badge/El%20Confidencial%20Digital-Article-orange?style=flat-square"/>
+    <img src="https://img.shields.io/badge/El%20Confidencial%20Digital-Artículo-orange?style=flat-square"/>
+  </a>
+  <a href="https://www.adslzone.net/noticias/videojuegos/dos-jovenes-mostolenos-lanzan-un-videojuego-como-tfg-y-superan-el-medio-millon-de-jugadores-sin-promocion/">
+    <img src="https://img.shields.io/badge/ADSL%20Zone-Artículo-red?style=flat-square"/>
+  </a>
+  <a href="https://www.moncloa.com/2025/02/19/barrasa-el-programador-de-21-anos-que-revoluciona-el-mundo-de-la-tecnologia-3160115/">
+    <img src="https://img.shields.io/badge/Moncloa-Artículo-purple?style=flat-square"/>
+  </a>
+  <a href="https://www.merca2.es/2025/02/20/barrasa-el-joven-programador-que-va-mas-alla-del-emprendimiento-2148778/">
+    <img src="https://img.shields.io/badge/Merca2-Artículo-darkgreen?style=flat-square"/>
+  </a>
+  <a href="https://www.que.es/2023/11/13/ivan-gonzalez-barrasa-programador-lider-empresarial/">
+    <img src="https://img.shields.io/badge/QUÉ!-Artículo-red?style=flat-square"/>
   </a>
   <a href="https://www.innovaspain.com/ivan-gonzalez-nexbi/">
-    <img src="https://img.shields.io/badge/InnovaSpain-Featured-green?style=flat-square"/>
-  </a>
-  <a href="https://www.ivoox.com/en/hablamos-ferrolano-javier-loureiro-creador-de-audios-mp3_rf_85716520_1.html">
-    <img src="https://img.shields.io/badge/La%20Voz-Radio-red?style=flat-square"/>
+    <img src="https://img.shields.io/badge/InnovaSpain-Featured-teal?style=flat-square"/>
   </a>
 </p>
 
@@ -93,5 +71,5 @@ Find mentions and articles by digital media outlets that they have published abo
 </p>
 
 <p align="center">
-  <strong>🚀 Allergic To Average 🚀</strong> 
+  <strong>🏫 Expelled from 3 schools. Now building things that matter. 🐑</strong>
 </p>
